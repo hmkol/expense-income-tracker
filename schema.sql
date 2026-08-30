@@ -13,3 +13,4 @@ CREATE TABLE IF NOT EXISTS `transaction_table` (
     `description` VARCHAR(255) NOT NULL,
     `amount` DOUBLE NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
